@@ -1,0 +1,10 @@
+.allure/
+.gradle/
+.idea/
+.kotlintest/
+*.jar
+out/
+build/
+logs/
+!gradle/wrapper/gradle-wrapper.jar
+*/**/github.properties

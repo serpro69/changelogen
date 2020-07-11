@@ -1,0 +1,10 @@
+# Connect via username/password
+login=username
+password=xxxxxxxxxx
+
+# Connect via personal access token
+oauth=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+# Connect via personal access token as organization user
+login=org
+oauth=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
